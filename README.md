@@ -20,7 +20,7 @@ This project is an end-to-end machine learning solution for predicting whether a
 
 ## Dataset
 
-The project uses the [Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult) (also known as "Census Income" or "Census Salary" dataset).  
+The project uses the [Adult Income Dataset](https://www.kaggle.com/datasets/sohaibanwaar1203/adultscsv) (also known as "Census Income" or "Census Salary" dataset).  
 **Features include:**  
 - Age  
 - Workclass  
